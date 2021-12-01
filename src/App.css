@@ -1,0 +1,21 @@
+h1{
+  color:brown;
+  text-transform: capitalize;
+}
+header{
+  text-align-last: center;
+  min-height: 90px;
+  border-bottom: 3px solid red;
+}
+h1{
+  color: green;
+  font-weight: bold;
+
+}
+nav a{
+text-decoration: none;
+font-weight: bold;
+color: blue;
+margin-left: 12px;
+font-size: 18px;
+}
